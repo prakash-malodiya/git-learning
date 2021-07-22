@@ -1,1 +1,1 @@
- Doing some changes to check stage. change 1
+ Doing some changes to check stage. change 1 staged. now change 2
